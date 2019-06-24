@@ -1,4 +1,4 @@
-package duducov.andrey.recyclerviewapp.adapter
+package dudukov.andrey.recyclerviewapp.adapter
 
 interface ItemType {
     companion object {

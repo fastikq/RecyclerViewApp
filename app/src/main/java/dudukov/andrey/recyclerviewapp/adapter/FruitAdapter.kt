@@ -1,14 +1,13 @@
-package duducov.andrey.recyclerviewapp.adapter
+package dudukov.andrey.recyclerviewapp.adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.widget.AppCompatTextView
-import androidx.cardview.widget.CardView
-import duducov.andrey.recyclerviewapp.R
-import duducov.andrey.recyclerviewapp.adapter.base.BaseAdapter
-import duducov.andrey.recyclerviewapp.adapter.model.Fruit
-import duducov.andrey.recyclerviewapp.adapter.model.Separator
+import dudukov.andrey.recyclerviewapp.R
+import dudukov.andrey.recyclerviewapp.adapter.base.BaseAdapter
+import dudukov.andrey.recyclerviewapp.adapter.model.Fruit
+import dudukov.andrey.recyclerviewapp.adapter.model.Separator
 
 class FruitAdapter: BaseAdapter<ItemType, BaseAdapter.BaseViewHolder>() {
 

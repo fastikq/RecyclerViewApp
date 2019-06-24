@@ -1,4 +1,4 @@
-package duducov.andrey.recyclerviewapp.adapter.base
+package dudukov.andrey.recyclerviewapp.adapter.base
 
 import android.view.View
 import android.view.ViewGroup

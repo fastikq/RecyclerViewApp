@@ -1,4 +1,4 @@
-package duducov.andrey.recyclerviewapp
+package dudukov.andrey.recyclerviewapp
 
 import org.junit.Test
 

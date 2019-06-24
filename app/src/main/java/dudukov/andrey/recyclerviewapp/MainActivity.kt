@@ -1,9 +1,9 @@
-package duducov.andrey.recyclerviewapp
+package dudukov.andrey.recyclerviewapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import duducov.andrey.recyclerviewapp.adapter.FruitAdapter
-import duducov.andrey.recyclerviewapp.adapter.model.Fruit
+import dudukov.andrey.recyclerviewapp.adapter.FruitAdapter
+import dudukov.andrey.recyclerviewapp.adapter.model.Fruit
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.collections.List as List1
 
